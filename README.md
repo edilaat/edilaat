@@ -3,7 +3,7 @@
 - 🎓 Formanda em Publicidade e Propaganda e trabalhando na área de marketing
 - 💻 No momento cursando Desenvolvimento de Sistemas, buscando enriquecer meu repertório profissional ou quem sabe mudar de área
 - 🐍 Aprendendo Python
-- 📩 Contato: edilamarts@hotmail.com
+- 📩 Contato: edilamarts1212@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/edilamar-tenorio-5a7223295/))
 
